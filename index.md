@@ -1,3 +1,5 @@
+# Update the provided content to match the new data in Markdown format.
+updated_content = """
 ---
 layout: default
 title: Abdullah Ahmed Samir - Resume
@@ -6,57 +8,57 @@ title: Abdullah Ahmed Samir - Resume
 ![Abdullah Ahmed Samir Photo](profile.jpg)
 
 # Abdullah Ahmed Samir
-**Senior Graphic Designer**  
+**Graphic Designer**  
 📧 [abdallaahsam66@gmail.com](mailto:abdallaahsam66@gmail.com)  
 📞 +201112302757  
-📍 Cairo, Dar El-salam 11732, Egypt  
+📍 Cairo, Egypt  
 
 ---
 
-## About Me
-As a senior graphic designer, I am skilled in developing visual identities and promotional materials using tools like Adobe Creative Suite. I have a passion for creative solutions and continuously improving my design skills.
+## Professional Summary
+Graphic Designer with 1 year of experience in creating social media posts, advertisements, and logos. Proficient in Adobe Creative Suite and CorelDRAW, with a strong focus on branding and identity design.
+
+---
+
+## Skills
+- Adobe Photoshop, Illustrator, InDesign  
+- CorelDRAW  
+- Branding & Identity Design  
+- Typography  
+- HTML/CSS  
 
 ---
 
 ## Work Experience
-### Graphic Design Intern
-**First Step Academy | Cairo**  
-_March 2024 - June 2024_  
-- Completed a comprehensive graphic design course covering design basics, color theory, and typography.
-- Delivered a graduation project creating a full brand identity for a fictional company.
 
----
+### Graphic Designer
+**Youth Leading Youth (YLY) – Ministry of Youth and Sports | Cairo, Egypt**  
+_July 2023 – Present_  
+- Designed creative social media posts and campaigns.  
+- Collaborated effectively within a team environment.  
 
-## Core Skills
-- **Adobe Creative Suite:** Photoshop, Illustrator, InDesign
-- **Design Tools:** Sketch, Figma
-- **Soft Skills:** Time Management, Team Collaboration, Attention to Detail, Effective Communication
+### Graphic Designer
+**Life Makers Foundation | Cairo, Egypt**  
+_March 2023 – Present_  
+- Created innovative social media designs and campaign ideas.  
+- Worked closely with team members to achieve project goals.  
 
 ---
 
 ## Education
 **Ain Shams University**  
-Bachelor of Commerce (Student)  
-_January 2024 - January 2048_
+Bachelor of Commerce  
+_Expected Graduation: 2027_  
 
 ---
 
-## Certificates
-- Graphic Design Course Certificate (First Step Academy, 2024)
+## Portfolio
+[www.behance.net/abdallaahsam](http://www.behance.net/abdallaahsam)  
+"""
 
----
+# Save the updated content to a Markdown file.
+file_path = '/mnt/data/Abdullah_Ahmed_Samir_Resume.md'
+with open(file_path, 'w') as file:
+    file.write(updated_content)
 
-## Languages
-- **Arabic:** Native
-- **English:** Proficient
-
----
-
-## Contact Me
-📧 [abdallaahsam66@gmail.com](mailto:abdallaahsam66@gmail.com)  
-📞 +201112302757  
-📍 Cairo, Dar El-salam 11732, Egypt  
-
-**Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com)
+file_path
