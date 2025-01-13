@@ -1,6 +1,3 @@
-# Update the provided content to match the new data in Markdown format.
-updated_content = """
----
 layout: default
 title: Abdullah Ahmed Samir - Resume
 ---
