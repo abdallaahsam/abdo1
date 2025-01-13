@@ -1,3 +1,5 @@
+
+---
 layout: default
 title: Abdullah Ahmed Samir - Resume
 ---
@@ -51,5 +53,3 @@ _Expected Graduation: 2027_
 
 ## Portfolio
 [www.behance.net/abdallaahsam](http://www.behance.net/abdallaahsam)  
-"""
-
