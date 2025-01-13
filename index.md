@@ -4,7 +4,9 @@ layout: default
 title: Abdullah Ahmed Samir - Resume
 ---
 
-![Abdullah Ahmed Samir Photo](profile.jpg)
+<div style="text-align: center;">
+    <img src="profile.jpg" alt="Abdullah Ahmed Samir Photo" style="width: 150px; border-radius: 50%;">
+</div>
 
 # Abdullah Ahmed Samir
 **Graphic Designer**  
