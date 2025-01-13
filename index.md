@@ -56,9 +56,3 @@ _Expected Graduation: 2027_
 [www.behance.net/abdallaahsam](http://www.behance.net/abdallaahsam)  
 """
 
-# Save the updated content to a Markdown file.
-file_path = '/mnt/data/Abdullah_Ahmed_Samir_Resume.md'
-with open(file_path, 'w') as file:
-    file.write(updated_content)
-
-file_path
